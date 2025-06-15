@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vvswathi63&" alt="vvswathi63" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VVSwathi63&layout=compact&theme=default)
+
